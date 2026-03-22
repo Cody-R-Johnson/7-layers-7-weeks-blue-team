@@ -33,8 +33,10 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 ## Completed Modules
 
 - [Week 1 Day 1 - Log Collection Foundations](Week-1/Day-1/README.md)
+- [Week 1 Day 2 - Alerting and SIEM Queries](Week-1/Day-2/README.md)
 
 ## Current Progress
 
 - Week 1 Day 1: Complete ([open module](Week-1/Day-1/README.md))
-- Next module: Week 1 Day 2
+- Week 1 Day 2: Complete ([open module](Week-1/Day-2/README.md))
+- Next module: Week 1 Day 3
