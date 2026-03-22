@@ -135,10 +135,10 @@ $content = [regex]::Replace(
     $completedBlock
 )
 
-$currentProgressBlock = "## Current Progress`r`n`r`n" + ($currentProgressLines -join "`r`n") + "`r`n"
+$currentProgressBlock = "## Current Progress`r`n`r`n" + ($currentProgressLines -join "`r`n") + "`r`n`r`n"
 $content = [regex]::Replace(
     $content,
-    "(?ms)^## Current Progress\s*\r?\n.*\z",
+    "(?ms)^## Current Progress\s*\r?\n.*?(?=^(?:##\s|<details>\s*$)|\z)",
     $currentProgressBlock
 )
 

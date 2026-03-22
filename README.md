@@ -30,6 +30,16 @@ Each week is split into daily modules:
 
 Detailed lessons, exercises, and learning notes are stored in each day folder.
 
+## Completed Modules
+
+- [Week 1 Day 1 - Log Collection Foundations](Week-1/Day-1/README.md)
+- [Week 1 Day 2 - Alerting and SIEM Queries](Week-1/Day-2/README.md)
+
+## Current Progress
+
+- Completed: 2 module(s) (through Week 1 Day 2)
+- Next module: Week 1 Day 3
+
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
 
@@ -43,19 +53,11 @@ Run from the repository root:
 
 Value add:
 
-- Keeps Completed Modules and Current Progress in sync automatically
-- Reduces manual README edits and drift
-- Preserves a repeatable, collaborator-friendly workflow
+- Demonstrates practical scripting to automate repetitive documentation tasks
+- Enforces a single source of truth for module completion and progress tracking
+- Improves consistency, reduces manual drift, and keeps updates collaborator-ready
 
 </details>
 
-## Completed Modules
 
-- [Week 1 Day 1 - Log Collection Foundations](Week-1/Day-1/README.md)
-- [Week 1 Day 2 - Alerting and SIEM Queries](Week-1/Day-2/README.md)
-
-## Current Progress
-
-- Completed: 2 module(s) (through Week 1 Day 2)
-- Next module: Week 1 Day 3
 
