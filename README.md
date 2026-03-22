@@ -30,6 +30,25 @@ Each week is split into daily modules:
 
 Detailed lessons, exercises, and learning notes are stored in each day folder.
 
+<details>
+<summary><strong>Progress Automation (click to expand)</strong></summary>
+
+The root progress sections are maintained by `scripts/sync-progress.ps1`.
+
+Run from the repository root:
+
+```powershell
+.\scripts\sync-progress.ps1
+```
+
+Value add:
+
+- Keeps Completed Modules and Current Progress in sync automatically
+- Reduces manual README edits and drift
+- Preserves a repeatable, collaborator-friendly workflow
+
+</details>
+
 ## Completed Modules
 
 - [Week 1 Day 1 - Log Collection Foundations](Week-1/Day-1/README.md)
@@ -37,6 +56,6 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 
 ## Current Progress
 
-- Week 1 Day 1: Complete ([open module](Week-1/Day-1/README.md))
-- Week 1 Day 2: Complete ([open module](Week-1/Day-2/README.md))
+- Completed: 2 module(s) (through Week 1 Day 2)
 - Next module: Week 1 Day 3
+
