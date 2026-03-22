@@ -30,11 +30,11 @@ Each week is split into daily modules:
 
 Detailed lessons, exercises, and learning notes are stored in each day folder.
 
-Current detailed module:
+## Completed Modules
 
-- Week 1 Day 1 learning content: Week-1/Day-1/day-1-log-collection-foundations.md
+- [Week 1 Day 1 - Log Collection Foundations](Week-1/Day-1/README.md)
 
 ## Current Progress
 
-- Week 1 Day 1: Complete
+- Week 1 Day 1: Complete ([open module](Week-1/Day-1/README.md))
 - Next module: Week 1 Day 2
