@@ -36,11 +36,12 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 - [Week 1 Day 2 - Alerting and SIEM Queries](Week-1/Day-2/README.md)
 - [Week 1 Day 3 - Correlation Rules and Sigma](Week-1/Day-3/README.md)
 - [Week 1 Day 4 - Dashboards and SOC Visibility](Week-1/Day-4/README.md)
+- [Week 1 Day 5 - Baselining and Normal Behavior](Week-1/Day-5/README.md)
 
 ## Current Progress
 
-- Completed: 4 module(s) (through Week 1 Day 4)
-- Next module: Week 1 Day 5
+- Completed: 5 module(s) (through Week 1 Day 5)
+- Next module: Week 1 Day 6
 
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
@@ -60,6 +61,7 @@ Value add:
 - Improves consistency, reduces manual drift, and keeps updates collaborator-ready
 
 </details>
+
 
 
 
