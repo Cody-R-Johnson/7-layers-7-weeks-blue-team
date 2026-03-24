@@ -34,11 +34,12 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 
 - [Week 1 Day 1 - Log Collection Foundations](Week-1/Day-1/README.md)
 - [Week 1 Day 2 - Alerting and SIEM Queries](Week-1/Day-2/README.md)
+- [Week 1 Day 3 - Correlation Rules and Sigma](Week-1/Day-3/README.md)
 
 ## Current Progress
 
-- Completed: 2 module(s) (through Week 1 Day 2)
-- Next module: Week 1 Day 3
+- Completed: 3 module(s) (through Week 1 Day 3)
+- Next module: Week 1 Day 4
 
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
@@ -58,6 +59,7 @@ Value add:
 - Improves consistency, reduces manual drift, and keeps updates collaborator-ready
 
 </details>
+
 
 
 
