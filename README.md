@@ -38,11 +38,12 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 - [Week 1 Day 4 - Dashboards and SOC Visibility](Week-1/Day-4/README.md)
 - [Week 1 Day 5 - Baselining and Normal Behavior](Week-1/Day-5/README.md)
 - [Week 1 Day 6 - Detection Engineering for Endpoint and Behavior](Week-1/Day-6/README.md)
+- [Week 1 Day 7 - False Positives and Detection Tuning](Week-1/Day-7/README.md)
 
 ## Current Progress
 
-- Completed: 6 module(s) (through Week 1 Day 6)
-- Next module: Week 1 Day 7
+- Completed: 7 module(s) (through Week 1 Day 7)
+- Next module: Week 2 Day 1
 
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
@@ -62,6 +63,7 @@ Value add:
 - Improves consistency, reduces manual drift, and keeps updates collaborator-ready
 
 </details>
+
 
 
 
