@@ -32,6 +32,9 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 
 ## Completed Modules
 
+<details>
+<summary><strong>Week 1</strong></summary>
+
 - [Week 1 Day 1 - Log Collection Foundations](Week-1/Day-1/README.md)
 - [Week 1 Day 2 - Alerting and SIEM Queries](Week-1/Day-2/README.md)
 - [Week 1 Day 3 - Correlation Rules and Sigma](Week-1/Day-3/README.md)
@@ -40,10 +43,19 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 - [Week 1 Day 6 - Detection Engineering for Endpoint and Behavior](Week-1/Day-6/README.md)
 - [Week 1 Day 7 - False Positives and Detection Tuning](Week-1/Day-7/README.md)
 
+</details>
+
+<details>
+<summary><strong>Week 2</strong></summary>
+
+- [Week 2 Day 1 - Threat Hunting Foundations](Week-2/Day-1/README.md)
+
+</details>
+
 ## Current Progress
 
-- Completed: 7 module(s) (through Week 1 Day 7)
-- Next module: Week 2 Day 1
+- Completed: 8 module(s) (through Week 2 Day 1)
+- Next module: Week 2 Day 2
 
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
