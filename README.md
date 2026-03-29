@@ -50,13 +50,14 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 
 - [Week 2 Day 1 - Threat Hunting Foundations](Week-2/Day-1/README.md)
 - [Week 2 Day 2 - Advanced Threat Hunting Patterns](Week-2/Day-2/README.md)
+- [Week 2 Day 3 - Lateral Movement Detection](Week-2/Day-3/README.md)
 
 </details>
 
 ## Current Progress
 
-- Completed: 9 module(s) (through Week 2 Day 2)
-- Next module: Week 2 Day 3
+- Completed: 10 module(s) (through Week 2 Day 3)
+- Next module: Week 2 Day 4
 
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
