@@ -53,13 +53,14 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 - [Week 2 Day 3 - Lateral Movement Detection](Week-2/Day-3/README.md)
 - [Week 2 Day 4 - Data Exfiltration Detection](Week-2/Day-4/README.md)
 - [Week 2 Day 5 - Persistence and Backdoor Detection](Week-2/Day-5/README.md)
+- [Week 2 Day 6 - Full Threat Hunting Investigation](Week-2/Day-6/README.md)
 
 </details>
 
 ## Current Progress
 
-- Completed: 12 module(s) (through Week 2 Day 5)
-- Next module: Week 2 Day 6
+- Completed: 13 module(s) (through Week 2 Day 6)
+- Next module: Week 2 Day 7
 
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
