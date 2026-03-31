@@ -1,4 +1,4 @@
-# 7 Layers in 7 Weeks
+﻿# 7 Layers in 7 Weeks
 
 A structured Blue Team learning program focused on building practical Security Operations Center (SOC) skills over 7 weeks.
 
@@ -52,13 +52,14 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 - [Week 2 Day 2 - Advanced Threat Hunting Patterns](Week-2/Day-2/README.md)
 - [Week 2 Day 3 - Lateral Movement Detection](Week-2/Day-3/README.md)
 - [Week 2 Day 4 - Data Exfiltration Detection](Week-2/Day-4/README.md)
+- [Week 2 Day 5 - Persistence and Backdoor Detection](Week-2/Day-5/README.md)
 
 </details>
 
 ## Current Progress
 
-- Completed: 11 module(s) (through Week 2 Day 4)
-- Next module: Week 2 Day 5
+- Completed: 12 module(s) (through Week 2 Day 5)
+- Next module: Week 2 Day 6
 
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
@@ -78,6 +79,9 @@ Value add:
 - Improves consistency, reduces manual drift, and keeps updates collaborator-ready
 
 </details>
+
+
+
 
 
 
