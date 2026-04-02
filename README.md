@@ -54,13 +54,14 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 - [Week 2 Day 4 - Data Exfiltration Detection](Week-2/Day-4/README.md)
 - [Week 2 Day 5 - Persistence and Backdoor Detection](Week-2/Day-5/README.md)
 - [Week 2 Day 6 - Full Threat Hunting Investigation](Week-2/Day-6/README.md)
+- [Week 2 Day 7 - Threat Hunting Wrap-Up and Real SOC Thinking](Week-2/Day-7/README.md)
 
 </details>
 
 ## Current Progress
 
-- Completed: 13 module(s) (through Week 2 Day 6)
-- Next module: Week 2 Day 7
+- Completed: 14 module(s) (through Week 2 Day 7)
+- Next module: Week 3 Day 1
 
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
