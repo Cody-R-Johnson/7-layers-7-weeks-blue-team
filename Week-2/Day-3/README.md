@@ -28,7 +28,6 @@ This is how small breaches grow into major incidents.
 
 ## Scenario Review
 
-I observed the following sequence:
 
 ```text
 Host A -> login success -> user: cody
@@ -42,10 +41,6 @@ Host C -> sudo access granted
 ### 1. What pattern do I see?
 
 My answer:
-
-A user logs in and moves sequentially across hosts, ending with elevated privileges.
-
-SOC-level refinement:
 
 A user is accessing multiple hosts in sequence and eventually gaining elevated (`sudo`) privileges.
 
@@ -83,8 +78,6 @@ Additional checks:
 
 ## Second Scenario Review
 
-I then observed:
-
 ```text
 User: cody
 Accessing:
@@ -98,10 +91,6 @@ Within 5 minutes
 ### 5. What is suspicious about this?
 
 My answer:
-
-Most users do not access multiple servers in such a short time window.
-
-SOC-level refinement:
 
 Accessing multiple servers rapidly is unusual and may indicate automated or malicious behavior.
 

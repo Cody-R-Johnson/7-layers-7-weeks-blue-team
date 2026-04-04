@@ -137,9 +137,6 @@ Question: What is the skill called when I decide what matters most when multiple
 My answer:
 
 Alert triage and prioritization.
-
-SOC version:
-
 This is the process of ranking alerts based on risk, impact, and likelihood of compromise so the most important issues get attention first.
 
 ## Key Terms

@@ -88,8 +88,6 @@ Other useful expansion points:
 
 ## Second Scenario Review
 
-I then found a different pattern:
-
 ```text
 User: alice -> failed login -> IP A
 User: alice -> failed login -> IP B

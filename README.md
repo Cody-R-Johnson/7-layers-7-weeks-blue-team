@@ -58,10 +58,17 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 
 </details>
 
+<details>
+<summary><strong>Week 3</strong></summary>
+
+- [Week 3 Day 1 - Your First SOC-Style PCAP Investigation](Week-3/Day-1/README.md)
+
+</details>
+
 ## Current Progress
 
-- Completed: 14 module(s) (through Week 2 Day 7)
-- Next module: Week 3 Day 1
+- Completed: 15 module(s) (through Week 3 Day 1)
+- Next module: Week 3 Day 2
 
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
