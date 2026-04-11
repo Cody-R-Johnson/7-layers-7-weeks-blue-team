@@ -65,13 +65,14 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 - [Week 3 Day 2 - Network Monitoring with Zeek](Week-3/Day-2/README.md)
 - [Week 3 Day 3 - IDS Detection with Suricata](Week-3/Day-3/README.md)
 - [Week 3 Day 4 - DNS Analysis (C2 + Exfiltration)](Week-3/Day-4/README.md)
+- [Week 3 Day 5 - Flow Analysis and Beaconing Detection](Week-3/Day-5/README.md)
 
 </details>
 
 ## Current Progress
 
-- Completed: 18 module(s) (through Week 3 Day 4)
-- Next module: Week 3 Day 5
+- Completed: 19 module(s) (through Week 3 Day 5)
+- Next module: Week 3 Day 6
 
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
@@ -91,6 +92,7 @@ Value add:
 - Improves consistency, reduces manual drift, and keeps updates collaborator-ready
 
 </details>
+
 
 
 
