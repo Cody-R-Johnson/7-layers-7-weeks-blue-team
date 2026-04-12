@@ -66,13 +66,15 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 - [Week 3 Day 3 - IDS Detection with Suricata](Week-3/Day-3/README.md)
 - [Week 3 Day 4 - DNS Analysis (C2 + Exfiltration)](Week-3/Day-4/README.md)
 - [Week 3 Day 5 - Flow Analysis and Beaconing Detection](Week-3/Day-5/README.md)
+- [Week 3 Day 6 - Advanced Detection Engineering (Suricata)](Week-3/Day-6/README.md)
+- [Week 3 Day 7 - False Positives and Tuning (Suricata)](Week-3/Day-7/README.md)
 
 </details>
 
 ## Current Progress
 
-- Completed: 19 module(s) (through Week 3 Day 5)
-- Next module: Week 3 Day 6
+- Completed: 21 module(s) (through Week 3 Day 7)
+- Next module: Week 4 Day 1
 
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
