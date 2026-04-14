@@ -71,10 +71,17 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 
 </details>
 
+<details>
+<summary><strong>Week 4</strong></summary>
+
+- [Week 4 Day 1 - Process Analysis (Osquery)](Week-4/Day-1/README.md)
+
+</details>
+
 ## Current Progress
 
-- Completed: 21 module(s) (through Week 3 Day 7)
-- Next module: Week 4 Day 1
+- Completed: 22 module(s) (through Week 4 Day 1)
+- Next module: Week 4 Day 2
 
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
