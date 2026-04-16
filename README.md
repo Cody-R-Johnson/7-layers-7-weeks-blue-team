@@ -76,13 +76,14 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 
 - [Week 4 Day 1 - Process Analysis (Osquery)](Week-4/Day-1/README.md)
 - [Week 4 Day 2 - Behavioral Hunting (Osquery Advanced)](Week-4/Day-2/README.md)
+- [Week 4 Day 3 - Timeline and Attack Reconstruction](Week-4/Day-3/README.md)
 
 </details>
 
 ## Current Progress
 
-- Completed: 23 module(s) (through Week 4 Day 2)
-- Next module: Week 4 Day 3
+- Completed: 24 module(s) (through Week 4 Day 3)
+- Next module: Week 4 Day 4
 
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
