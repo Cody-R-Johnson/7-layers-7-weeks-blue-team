@@ -80,13 +80,14 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 - [Week 4 Day 4 - Persistence Mechanisms (Osquery)](Week-4/Day-4/README.md)
 - [Week 4 Day 5 - Memory & Fileless Detection (Osquery)](Week-4/Day-5/README.md)
 - [Week 4 Day 6 - Endpoint Detection Engineering (Build Your Own Detections)](Week-4/Day-6/README.md)
+- [Week 4 Day 7 - False Positive Tuning (Production-Ready Detections)](Week-4/Day-7/README.md)
 
 </details>
 
 ## Current Progress
 
-- Completed: 27 module(s) (through Week 4 Day 6)
-- Next module: Week 4 Day 7
+- Completed: 28 module(s) (through Week 4 Day 7)
+- Next module: Week 5 Day 1
 
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
