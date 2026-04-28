@@ -88,13 +88,14 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 <summary><strong>Week 5</strong></summary>
 
 - [Week 5 Day 1 - Security Automation (SOAR Fundamentals + Python Detection Automation)](Week-5/Day-1/README.md)
+- [Week 5 Day 2 - API Enrichment and Threat Intelligence Integration](Week-5/Day-2/README.md)
 
 </details>
 
 ## Current Progress
 
-- Completed: 29 module(s) (through Week 5 Day 1)
-- Next module: Week 5 Day 2
+- Completed: 30 module(s) (through Week 5 Day 2)
+- Next module: Week 5 Day 3
 
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
