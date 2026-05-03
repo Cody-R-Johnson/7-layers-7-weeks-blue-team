@@ -93,13 +93,14 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 - [Week 5 Day 4 - Automated Case Creation & Alert Routing](Week-5/Day-4/README.md)
 - [Week 5 Day 5 - Controlled Automated Response (Containment Simulation to Safe Execution)](Week-5/Day-5/README.md)
 - [Week 5 Day 6 - Full Pipeline Integration and Hardening](Week-5/Day-6/README.md)
+- [Week 5 Day 7 - Final SOAR Automation Challenge (Capstone)](Week-5/Day-7/README.md)
 
 </details>
 
 ## Current Progress
 
-- Completed: 34 module(s) (through Week 5 Day 6)
-- Next module: Week 5 Day 7
+- Completed: 35 module(s) (through Week 5 Day 7)
+- Next module: Week 6 Day 1
 
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
