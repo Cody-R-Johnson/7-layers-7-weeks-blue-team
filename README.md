@@ -97,10 +97,17 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 
 </details>
 
+<details>
+<summary><strong>Week 6</strong></summary>
+
+- [Week 6 Day 1 - Threat Intelligence Systems (IOC Ingestion and Management)](Week-6/Day-1/README.md)
+
+</details>
+
 ## Current Progress
 
-- Completed: 35 module(s) (through Week 5 Day 7)
-- Next module: Week 6 Day 1
+- Completed: 36 module(s) (through Week 6 Day 1)
+- Next module: Week 6 Day 2
 
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
