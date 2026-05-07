@@ -103,13 +103,14 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 - [Week 6 Day 1 - Threat Intelligence Systems (IOC Ingestion and Management)](Week-6/Day-1/README.md)
 - [Week 6 Day 2 - Automated Threat Feed Ingestion](Week-6/Day-2/README.md)
 - [Week 6 Day 3 - IOC Lifecycle Management](Week-6/Day-3/README.md)
+- [Week 6 Day 4 - Threat Actor and Campaign Mapping](Week-6/Day-4/README.md)
 
 </details>
 
 ## Current Progress
 
-- Completed: 38 module(s) (through Week 6 Day 3)
-- Next module: Week 6 Day 4
+- Completed: 39 module(s) (through Week 6 Day 4)
+- Next module: Week 6 Day 5
 
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
