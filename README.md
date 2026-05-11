@@ -105,13 +105,14 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 - [Week 6 Day 3 - IOC Lifecycle Management](Week-6/Day-3/README.md)
 - [Week 6 Day 4 - Threat Actor and Campaign Mapping](Week-6/Day-4/README.md)
 - [Week 6 Day 5 - Intel-Driven Detection Prioritization](Week-6/Day-5/README.md)
+- [Week 6 Day 6 - Intelligence Feedback Loop](Week-6/Day-6/README.md)
 
 </details>
 
 ## Current Progress
 
-- Completed: 40 module(s) (through Week 6 Day 5)
-- Next module: Week 6 Day 6
+- Completed: 41 module(s) (through Week 6 Day 6)
+- Next module: Week 6 Day 7
 
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
