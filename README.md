@@ -106,13 +106,14 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 - [Week 6 Day 4 - Threat Actor and Campaign Mapping](Week-6/Day-4/README.md)
 - [Week 6 Day 5 - Intel-Driven Detection Prioritization](Week-6/Day-5/README.md)
 - [Week 6 Day 6 - Intelligence Feedback Loop](Week-6/Day-6/README.md)
+- [Week 6 Day 7 - Threat Intelligence Platform Capstone](Week-6/Day-7/README.md)
 
 </details>
 
 ## Current Progress
 
-- Completed: 41 module(s) (through Week 6 Day 6)
-- Next module: Week 6 Day 7
+- Completed: 42 module(s) (through Week 6 Day 7)
+- Next module: Week 7 Day 1
 
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
