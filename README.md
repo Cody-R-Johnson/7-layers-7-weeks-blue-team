@@ -115,7 +115,7 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 
 - [Week 7 Day 1 - Incident Response Planning & Evidence Preservation](Week-7/Day-1/README.md)
 - [Week 7 Day 2 - Evidence Collection and Triage](Week-7/Day-2/week7_day2_report.md)
-- Week 7 Day 3 - Log and Timeline Correlation
+- [Week 7 Day 3 - Log and Timeline Correlation](Week-7/Day-3/week7_day3_report.md)
 - Week 7 Day 4 - Malware Triage and Analysis
 - Week 7 Day 5 - Containment and Recovery
 - Week 7 Day 6 - Post-Incident Automation
@@ -125,8 +125,8 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 
 ## Current Progress
 
-- Completed: 44 module(s) (through Week 7 Day 2)
-- Next module: Week 7 Day 3
+- Completed: 45 module(s) (through Week 7 Day 3)
+- Next module: Week 7 Day 4
 
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
