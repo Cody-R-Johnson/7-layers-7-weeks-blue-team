@@ -118,15 +118,15 @@ Detailed lessons, exercises, and learning notes are stored in each day folder.
 - [Week 7 Day 3 - Log and Timeline Correlation](Week-7/Day-3/week7_day3_report.md)
 - [Week 7 Day 4 - Malware Triage and Analysis](Week-7/Day-4/week7_day4_report.md)
 - [Week 7 Day 5 - Containment and Recovery](Week-7/Day-5/week7_day5_report.md)
-- Week 7 Day 6 - Post-Incident Automation
+- [Week 7 Day 6 - Post-Incident Automation](Week-7/Day-6/week7_day6_report.md)
 - Week 7 Day 7 - Full Incident Simulation
 
 </details>
 
 ## Current Progress
 
-- Completed: 47 module(s) (through Week 7 Day 5)
-- Next module: Week 7 Day 6
+- Completed: 48 module(s) (through Week 7 Day 6)
+- Next module: Week 7 Day 7
 
 <details>
 <summary><strong>Progress Automation (click to expand)</strong></summary>
